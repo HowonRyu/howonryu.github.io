@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-## Physical activity recognition from accelerometer data using masekd autoencoder(MAE)
+## Physical activity recognition from accelerometer data using masekd autoencoder (MAE)
 [<img src="/images/MAE.png" width="700"/>](/images/MAE.png)
 * Theorized the effect of masking in transformer autoencoder model with multi-modality time-series inputs.
 * Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies.
-* Manuscript in preparation for conference submission: **Masked Autoencoder for Mlti-modality Time-series input**
+* Manuscript in preparation for conference submission: **Masked Autoencoder for Multi-modality Time-series input**
 
 
 ## Spatial confidence set on brain image (fMRI) data
