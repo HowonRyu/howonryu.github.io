@@ -20,6 +20,6 @@ demonstration with error rate control using Python NumPy
 * Manuscript in preparation: **Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control**
 
 
-## Copy number signature GWAS with variational Bayes UCSD & Laureate Institute
+## Copy number signature GWAS with variational Bayes 
 * Customized the zero-inflated variational Bayes model [(Ren 2023)](https://www.nature.com/articles/s42003-024-06504-y) which was originally designed for brain imaging data to fit the GWAS setting, achieving a tailored and optimized analysis pipeline for association analysis between genotypes and zero-inflated copy number signatures.
 * Conducted batch run across SNPs on cluster computer, and performed simulation on valid threshold for coefficient effects.
