@@ -8,8 +8,6 @@ author_profile: true
 ## TODO: add PD FDA
 
 ## Physical activity recognition from accelerometer data using masekd autoencoder (MAE)
-[MAE](/images/MAE.png){ width="700" style="display: block; margin: 0 auto" }
-
 <p align="center">
     <img src="/images/MAE.png" alt="MAE" style="width: 80%;">
 </p>
