@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Howon Ryu"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Biostatistics Ph.D. Student"
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"

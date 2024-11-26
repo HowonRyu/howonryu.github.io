@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## Physical activity recognition from accelerometer data using masekd autoencoder(MAE)
-[<img src="/images/MAE.png" width="450"/>](/images/MAE.png)
+[<img src="/images/MAE.png" width="700"/>](/images/MAE.png)
 * Theorized the effect of masking in transformer autoencoder model with multi-modality time-series inputs.
 * Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies.
 * Manuscript in preparation for conference submission: **Masked Autoencoder for Mlti-modality Time-series input**
 
 
 ## Spatial confidence set on brain image (fMRI) data
-[<img src="/images/confidenceset.png" width="450"/>](/images/confidenceset.png)
+[<img src="/images/confidenceset.png" width="500"/>](/images/confidenceset.png)
 * Developed spatial confidence region framework for image data (fMRI) controlling for false discovery rate (Benjamini-Hochberg and two-step adaptive procedure).
 * Conducted simulation and real data (HCP fMRI dataset) application for model validation and model performance.
 demonstration with error rate control using Python NumPy
