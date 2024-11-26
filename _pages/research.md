@@ -13,7 +13,7 @@ author_profile: true
 </p>
 
 * Theorized the effect of masking in transformer autoencoder model with multi-modality time-series inputs.
-* Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies.
+* Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies. (Pytorch)
 * Manuscript in preparation for conference submission: **Masked Autoencoder for Multi-modality Time-series Input**
 
 
