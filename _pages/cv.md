@@ -17,36 +17,37 @@ Education
 
 
 
-Work experience
+Selected Work Experience
 ======
 ORISE Research Fellow, *Aug 2023 - present*
-@ Center for Devices and Radiological Health, FDA    *Silver Spring, MD (remote)*
+
+Center for Devices and Radiological Health, FDA    (*Silver Spring, MD (remote)*)
 * Research on wearable device data and gait feature prediction on Parkinson's disease patients.
 
 Statistical Consultant Intern, *Aug 2020 - Jan 2021*
-@ OARC Stats Statistical Consulting, UCLA      *Los Angeles, CA*
+
+OARC Stats Statistical Consulting, UCLA      (*Los Angeles, CA*)
 * Provided statistical consulting service to UCLA affiliated researchers and faculty.
 
 Skills
 ======
-* Languages: Python (NumPy, SciPy, Pandas, PyTorch, TensorFlow), R, SQL
-* Shell Scripting, cluster computing (SLURM, Kubernetes, Docker), Git, LaTeX, Markdown, Rmarkdown
-* Experienced Domains:
-  * brain imaging data (fMRI), high-dimensional time series data analysis, wearable device data (accelerometer, IMU, Walkway data), survival analysis, mixed effects model, machine learning, data science
+- Languages: Python (NumPy, SciPy, Pandas, PyTorch, TensorFlow), R, SQL
+- Shell Scripting, cluster computing (SLURM, Kubernetes, Docker), Git, LaTeX, Markdown, Rmarkdown
+- Experienced Domains:
+  - brain imaging data (fMRI), high-dimensional time series data analysis, wearable device data (accelerometer, IMU, Walkway data), survival analysis, mixed effects model, machine learning, data science
 
 
 Publications
 ======
-* **Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control (in preparation)
+**Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control (in preparation)
 
-* **Ryu, H.**, Chen, Y., Wang, Y., Wang, Y.,  Zou, J., Masked Autoencoder for Mlti-modality Time-series input (in preparation)
+**Ryu, H.**, Chen, Y., Wang, Y., Wang, Y.,  Zou, J., Masked Autoencoder for Mlti-modality Time-series input (in preparation)
 
-* Kapoor, N. S., **Ryu, H.**, Smith, L., Zou, J., Mitchell, K., & Blair, S. L. (2024). [Presentation and management of gran-
+Kapoor, N. S., **Ryu, H.**, Smith, L., Zou, J., Mitchell, K., & Blair, S. L. (2024). [Presentation and management of gran-
 ulomatous mastitis in the United States: results of an American Society of Breast Surgeons registry study.](https://pubmed.ncbi.nlm.nih.gov/38969857/) Annals
 of Surgical Oncology, 1-9.
 
-
-* Green, R., Lin, J., Montoya, A. K., Bello, M. S., Grodin, E. N., **Ryu, H.**, ... & Ray, L. A. (2022). [Characteristics associated
+Green, R., Lin, J., Montoya, A. K., Bello, M. S., Grodin, E. N., **Ryu, H.**, ... & Ray, L. A. (2022). [Characteristics associated
 with treatment seeking for smoking cessation among heavy-drinking research participants.](https://pubmed.ncbi.nlm.nih.gov/36245856/) Frontiers in Psychiatry,
 13, 951364.
   
