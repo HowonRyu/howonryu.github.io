@@ -19,6 +19,8 @@ author_profile: true
 * Manuscript in preparation for conference submission: **Masked Autoencoder for Multi-modality Time-series Input**
 
 
+
+
 ## Spatial confidence set on brain image (fMRI) data
 <p align="center">
     <img src="/images/confidenceset.png" alt="confset" style="width: 60%;">
