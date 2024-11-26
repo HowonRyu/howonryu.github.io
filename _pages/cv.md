@@ -16,8 +16,6 @@ Education
 * M.S. in Biostatistics, University of California, Los Angeles 2020
 * B.S. in Statistics, Sungkyunkwan University 2018
 
-Courseworks:
-
 Selected Work Experience
 ======
 
