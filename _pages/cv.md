@@ -16,7 +16,7 @@ Education
 * M.S. in Biostatistics, University of California, Los Angeles 2020
 * B.S. in Statistics, Sungkyunkwan University 2018
 
-
+Courseworks:
 
 Selected Work Experience
 ======
@@ -45,7 +45,7 @@ Publications
 
 **Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control (in preparation)
 
-**Ryu, H.**, Chen, Y., Wang, Y., Wang, Y.,  Zou, J., Masked Autoencoder for Multi-modality Time-series input (in preparation)
+**Ryu, H.**, Chen, Y., Wang, Y., Wang, Y.,  Zou, J., Masked Autoencoder for Multi-modality Time-series Input (in preparation)
 
 Kapoor, N. S., **Ryu, H.**, Smith, L., Zou, J., Mitchell, K., & Blair, S. L. (2024). [Presentation and management of gran-
 ulomatous mastitis in the United States: results of an American Society of Breast Surgeons registry study.](https://pubmed.ncbi.nlm.nih.gov/38969857/) Annals
@@ -56,7 +56,7 @@ with treatment seeking for smoking cessation among heavy-drinking research parti
 13, 951364.
   
 
-Presentations
+Talks & Presentations
 ======
 
 * Posters
