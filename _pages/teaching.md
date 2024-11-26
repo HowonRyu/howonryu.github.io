@@ -24,7 +24,7 @@ author_profile: true
 ------
 ### Biostatistics in Public Health (FMPH 102)
 *Graduate Teaching Assistant | 2022 Winter*
-* Undergraduate course on biostatistics for public health graduate students.
+* Undergraduate course on biostatistics for public health students.
 * Taugh lab portion on biostatistics methods theory and hel weekly office hours.
 
 
