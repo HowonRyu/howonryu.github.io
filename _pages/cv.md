@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D in Biostatistics, University of California, San Diego 2026 (expected)
 * M.S. in Biostatistics, University of California, Los Angeles 2020
@@ -17,17 +17,17 @@ Education
 
 
 
-Work experience
+## Work experience
 ======
-* ORISE Research Fellow | Aug 2023 - present
+* ORISE Research Fellow, *Aug 2023 - present*
   * Center for Devices and Radiological Health, FDA | Silver Spring, MD (remote)
   * Research on wearable device data and gait feature prediction on Parkinson's disease patients.
 
-* Statistical Consultant Intern | Aug 2020 - Jan 2021
+* Statistical Consultant Intern, *Aug 2020 - Jan 2021*
   * OARC Stats Statistical Consulting, UCLA | Los Angeles, CA
   * Provided statistical consulting service to UCLA affiliated researchers and faculty.
 
-Skills
+## Skills
 ======
 * Languages: Python (NumPy, SciPy, Pandas, PyTorch, TensorFlow), R, SQL
 * Shell Scripting, cluster computing (SLURM, Kubernetes, Docker), Git, LaTeX, Markdown, Rmarkdown
@@ -35,7 +35,7 @@ Skills
   * brain imaging data (fMRI), high-dimensional time series data analysis, wearable device data (accelerometer, IMU, Walkway data), survival analysis, mixed effects model, machine learning, data science
 
 
-Publications
+## Publications
 ======
 * **Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control (in preparation)
 
@@ -50,7 +50,7 @@ of Surgical Oncology, 1-9.
 with treatment seeking for smoking cessation among heavy-drinking research participants.](https://pubmed.ncbi.nlm.nih.gov/36245856/) Frontiers in Psychiatry,
 13, 951364.
   
-Presentations
+## Presentations
 ======
 * Posters
   * Ryu H, Wang G, Lee M, Nair R. Prediction of Parkinson’s disease severity through MDS-UPDRS ratings and H&Y stage from IMU signals using neural network model. Eastern North American Region, International Biometric Society (ENAR); 2024 March; Baltimore, MD.

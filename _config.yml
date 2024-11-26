@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Howon's personal webpage"
+title                    : "Howon's webpage"
 title_separator          : "-"
 name                     : &name "Howon Ryu"
 description              : &description ""
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Howon Ryu"
   pronouns         : "she/her"  
-  bio              : "Biostatistics Ph.D. Student with interest in ..."
+  bio              : "Biostatistics Ph.D. Student"
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
