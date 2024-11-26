@@ -20,12 +20,12 @@ Education
 Selected Work Experience
 ======
 **ORISE Research Fellow**, *Aug 2023 - present* \\
-Center for Devices and Radiological Health, FDA; *Silver Spring, MD (remote)*
-* Research on wearable device data and gait feature prediction on Parkinson's disease patients.
+*Center for Devices and Radiological Health, FDA*
+* Research on wearable device data and gait feature prediction on Parkinson's disease patients
 
 ------
 **Statistical Consultant Intern**, *Aug 2020 - Jan 2021*
-OARC Stats Statistical Consulting, UCLA; *Los Angeles, CA*)
+*OARC Stats Statistical Consulting, UCLA*
 * Provided statistical consulting service to UCLA affiliated researchers and faculty.
 
 Skills
