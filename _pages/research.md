@@ -15,7 +15,9 @@ author_profile: true
 
 
 ## Spatial confidence set on brain image (fMRI) data
-[confset](/images/confidenceset.png){ width="500" style="display: block; margin: 0 auto" }
+<p align="center">
+    <img src="/images/confidenceset.png" alt="confset">
+</p>
 * Developed spatial confidence region framework for image data (fMRI) controlling for false discovery rate (Benjamini-Hochberg and two-step adaptive procedure).
 * Conducted simulation and real data (HCP fMRI dataset) application for model validation and model performance.
 demonstration with error rate control using Python NumPy
