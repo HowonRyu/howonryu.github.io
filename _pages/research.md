@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## TODO: add PD FDA
-
 ## Physical activity recognition from accelerometer data using masekd autoencoder (MAE)
 <p align="center">
     <img src="/images/MAE.png" alt="MAE" style="width: 80%;">
@@ -28,6 +26,13 @@ author_profile: true
 * Conducted simulation and real data (HCP fMRI dataset) application for model validation and model performance.
 demonstration with error rate control using Python NumPy
 * Manuscript in preparation: **Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control**
+
+
+## Inertial Measurement Unit Input and step and gait feature recognition
+* Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input using CNN architecture.
+* Identifying important kinetic and gait features.
+* Extensive literature review on the use of physiological signals from wearable devices for Parkinson's disease (PD) and machine learning methodologies.
+
 
 
 ## Copy number signature GWAS with variational Bayes 
