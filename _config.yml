@@ -21,7 +21,7 @@ repository               : "HowonRyu/howonryu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio.jpeg"
+  avatar           : "/images/bio.jpeg"
   name             : "Howon Ryu"
   pronouns         : #"she/her"  
   bio              : "Biostatistics Ph.D. Student"
