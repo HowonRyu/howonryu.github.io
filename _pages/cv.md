@@ -19,7 +19,7 @@ Education
 Selected Work Experience
 ======
 
-**ORISE Research Fellow**, *Aug 2023 - present*
+**ORISE Research Fellow**, *Aug 2023 - Dec 2024*
 *Center for Devices and Radiological Health, FDA*
 : Research on wearable device data and gait feature prediction on Parkinson's disease patients
 
