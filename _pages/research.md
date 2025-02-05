@@ -12,7 +12,7 @@ author_profile: true
 
 * Theorized the effect of masking in transformer autoencoder model with multi-modality time-series inputs.
 * Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies. (Pytorch)
-* Manuscript in preparation for conference submission: **Masked Autoencoder for Multi-modality Time-series Input**
+* ICML 2025 submission: **MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements**
 
 
 
@@ -29,7 +29,7 @@ demonstration with error rate control using Python NumPy
 
 
 ## Inertial Measurement Unit Input and step and gait feature recognition
-* Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input using CNN architecture.
+* Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input.
 * Identifying important kinetic and gait features.
 * Extensive literature review on the use of physiological signals from wearable devices for Parkinson's disease (PD) and machine learning methodologies.
 
