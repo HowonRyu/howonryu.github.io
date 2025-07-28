@@ -40,9 +40,10 @@ Experienced Domains: brain imaging data (fMRI), high-dimensional time series dat
 Publications
 ======
 
-**Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control (in preparation)
+**Ryu, H.**, Maullin-Sapey, T., Schwartzman, A., Davenport, S., (2025). [Spatial Confidence Regions for Excursion Sets with False Discovery Rate Control.](https://arxiv.org/abs/2506.02260) arXiv preprint arXiv:2504.13124.
 
-**Ryu, H.**, Chen, Y., Wang, Y., Wang, Y.,  Zou, J., Masked Autoencoder for Multi-modality Time-series Input (in preparation)
+**Ryu, H.**, Chen, Y., Wang, Y., LaCroix, A., Di C., Natarajan, L., Wang, Y.,  Zou, J., (2025). [MoCA: Multi-modal Cross-masked Autoencoder for Digital Health Measurements.](https://arxiv.org/abs/2506.02260) arXiv preprint arXiv:2506.02260.
+
 
 Kapoor, N. S., **Ryu, H.**, Smith, L., Zou, J., Mitchell, K., & Blair, S. L. (2024). [Presentation and management of gran-
 ulomatous mastitis in the United States: results of an American Society of Breast Surgeons registry study.](https://pubmed.ncbi.nlm.nih.gov/38969857/) Annals
