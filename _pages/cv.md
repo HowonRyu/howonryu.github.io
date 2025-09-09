@@ -31,10 +31,10 @@ Selected Work Experience
 Skills
 ======
 
-Python (NumPy, SciPy, Pandas, PyTorch, TensorFlow), R, SQL, shell scripting, cluster computing (SLURM, Kubernetes, Docker), Git, LaTeX, Markdown, Rmarkdown 
+Python (NumPy, SciPy, Pandas, PyTorch, TensorFlow, PyTorch-Geometric), R, SQL, shell scripting, cluster computing (SLURM, Kubernetes, Docker), Git, LaTeX, Markdown, Rmarkdown 
 
 
-Experienced Domains: brain imaging data (fMRI), high-dimensional time series data analysis, wearable device data (accelerometer, IMU, Walkway data), survival analysis, mixed effects model, machine learning, data science
+Experienced Domains: brain imaging data (fMRI), high-dimensional time series data analysis, wearable device data (accelerometer, IMU, Walkway data), survival analysis, mixed effects model, machine learning, deep learning
 
 
 Publications
@@ -63,4 +63,5 @@ Talks & Presentations
 
 * Oral presentations
   * Strohl H, Ryu H, Do N, Su I, Zou J. Association of Psychosocial Stress And FErtility outcomes: The SAFE Study. Division of Reproductive Endocrinology & Infertility group meeting, UCSD School of Medicine; 2024 Oct 14; La Jolla, CA
+  * Ryu H, Hansen D, Lee M, Kontson K, Nair R, Wang G. Using Wearable Device Data for Step Measurement On Parkinson’s Disease Population. Joint Statistical Meeting (JSM) 2025 Section on Medical Devices and Diagnostics: Statistical Modeling, Data Analysis, and Forecasting Techniques; 2025 Aug 6; Nashville, TN
 
