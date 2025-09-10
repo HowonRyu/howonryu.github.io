@@ -9,7 +9,7 @@ author_profile: true
 <p align="center">
     <img src="/images/MAE.png" alt="MAE" style="width: 80%;">
 </p>
-
+* Self-supervised learning framework for physical activity classification with wearable device data input (MoCA) using transformer-based masked autoencoder model.
 * Physical activity classification from accelerometer and gyroscope time series inputs using Masked Autoencoder model.
 * Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies. (PyTorch)
 * [(preprint)](https://arxiv.org/abs/2506.02260)
