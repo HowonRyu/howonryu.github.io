@@ -12,8 +12,8 @@ author_profile: true
 * Self-supervised learning framework for physical activity classification with wearable device data input (MoCA) using transformer-based masked autoencoder model.
 * Physical activity classification from accelerometer and gyroscope time series inputs using Masked Autoencoder model.
 * Conducted experiments showcasing model performance in terms of model comparison, transfer learning with the pre-trained model, and ablation studies. (PyTorch)
-* [(preprint)](https://arxiv.org/abs/2506.02260)
-* [(code)](https://github.com/HowonRyu/MoCA)
+* [preprint](https://arxiv.org/abs/2506.02260)
+* [code](https://github.com/HowonRyu/MoCA)
 
 
 
@@ -25,8 +25,8 @@ author_profile: true
 * Developed spatial confidence region framework for image data (fMRI) controlling for false discovery rate (Benjamini-Hochberg and two-step adaptive procedure).
 * Conducted simulation and real data (HCP fMRI dataset) application for model validation and model performance.
 demonstration with error rate control (NumPy)
-* [(preprint)](https://arxiv.org/abs/2504.13124)
-* [(code)](https://github.com/HowonRyu/ConfidenceSet)
+* [preprint](https://arxiv.org/abs/2504.13124)
+* [code](https://github.com/HowonRyu/ConfidenceSet)
 
 
 ## Step measurement and gait feature recognition from inertial measurement unit inputs.
