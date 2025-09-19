@@ -19,7 +19,7 @@ author_profile: true
 
 ## Spatial confidence set on brain image (fMRI) data
 <p align="center">
-    <img src="/images/confidenceset.png" alt="confset" style="width: 60%;">
+    <img src="/images/confidenceset.png" alt="confset" style="width: 70%;">
 </p>
 
 * Developed spatial confidence region framework for image data (fMRI) controlling for false discovery rate (Benjamini-Hochberg and two-step adaptive procedure).
