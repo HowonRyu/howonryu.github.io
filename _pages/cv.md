@@ -57,11 +57,12 @@ with treatment seeking for smoking cessation among heavy-drinking research parti
 Talks & Presentations
 ======
 
+* Oral presentations
+  * Strohl H, Ryu H, Do N, Su I, Zou J. Association of Psychosocial Stress And FErtility outcomes: The SAFE Study. Division of Reproductive Endocrinology & Infertility group meeting, UCSD School of Medicine; 2024 Oct 14; La Jolla, CA
+  * Ryu H, Hansen D, Lee M, Kontson K, Nair R, Wang G. Using Wearable Device Data for Step Measurement On Parkinson’s Disease Population. Joint Statistical Meeting (JSM) 2025 Section on Medical Devices and Diagnostics: Statistical Modeling, Data Analysis, and Forecasting Techniques; 2025 Aug 6; Nashville, TN
 * Posters
   * Ryu H, Wang G, Lee M, Nair R. Prediction of Parkinson’s disease severity through MDS-UPDRS ratings and H&Y stage from IMU signals using neural network model. Eastern North American Region, International Biometric Society (ENAR); 2024 March; Baltimore, MD.
   * Desmond A, Karmarkar M, Ryu H, Shahbaz S. Lung Injury Prevention Using an Evidence-Based Algorithm: A Neonatal Intensive Care Unit (NICU) Quality Initiative. 7th Annual UCLA Children’s Hospital Children’s Discovery & Innovation Institute Symposium; 2020 May 21; Los Angeles, CA
 
-* Oral presentations
-  * Strohl H, Ryu H, Do N, Su I, Zou J. Association of Psychosocial Stress And FErtility outcomes: The SAFE Study. Division of Reproductive Endocrinology & Infertility group meeting, UCSD School of Medicine; 2024 Oct 14; La Jolla, CA
-  * Ryu H, Hansen D, Lee M, Kontson K, Nair R, Wang G. Using Wearable Device Data for Step Measurement On Parkinson’s Disease Population. Joint Statistical Meeting (JSM) 2025 Section on Medical Devices and Diagnostics: Statistical Modeling, Data Analysis, and Forecasting Techniques; 2025 Aug 6; Nashville, TN
+
 
