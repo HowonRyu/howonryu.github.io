@@ -30,7 +30,7 @@ demonstration with error rate control (NumPy)
 ## Step measurement and gait feature recognition from inertial measurement unit inputs.
 * Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input.
 * Identified important kinetic and gait features and developed step measurement model to derive gait features. (PyTorch)
-* Extensive literature review on the use of physiological signals from wearable devices for Parkinson's disease (PD) and machine learning methodologies.
+* [[link]](https://zenodo.org/records/17178619)
 
 
 
