@@ -8,7 +8,7 @@ author_profile: true
 ## Physical activity recognition from accelerometer data using masekd autoencoder (MAE)
 * Self-supervised learning framework for physical activity classification with wearable device data input (MoCA) using transformer-based masked autoencoder model.
 * Physical activity classification from accelerometer and gyroscope time series inputs using Masked Autoencoder model.
-* Conducted experiments showcasing model performance over baseline models, transfer learning with the pre-trained model, and ablation studies. (PyTorch)
+* Conducted experiments showcasing model performance over baseline models, transfer learning with the pre-trained model, and ablation studies.
 * [[preprint]](https://arxiv.org/abs/2506.02260)
 * [[code]](https://github.com/HowonRyu/MoCA)
 <p align="center">
@@ -19,7 +19,7 @@ author_profile: true
 ## Spatial confidence set on brain image (fMRI) data
 * Developed spatial confidence region framework for image data (fMRI) controlling for false discovery rate (Benjamini-Hochberg and two-step adaptive procedure).
 * Conducted simulation and real data (HCP fMRI dataset) application for model validation and model performance.
-demonstration with error rate control (NumPy)
+demonstration with error rate control.
 * [[preprint]](https://arxiv.org/abs/2504.13124)
 * [[code]](https://github.com/HowonRyu/ConfidenceSet)
 <p align="center">
@@ -28,10 +28,11 @@ demonstration with error rate control (NumPy)
 
 
 ## Step measurement and gait feature recognition from inertial measurement unit inputs.
-* Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input.
-* Identified important kinetic and gait features and developed step measurement model to derive gait features. (PyTorch)
-* [[link]](https://zenodo.org/records/17178619)
-
+* Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input. [[link]](https://zenodo.org/records/17178619)
+* Identified important kinetic and gait features and developed step measurement model to derive gait features. [[link]](https://zenodo.org/records/17178619)
+<p align="center">
+    <img src="/images/IMU_classification_results.png" alt="confset" style="width: 50%;">
+</p>
 
 
 ## Copy number signature GWAS with variational Bayes 
