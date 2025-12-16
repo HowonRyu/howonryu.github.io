@@ -33,6 +33,9 @@ demonstration with error rate control.
 <embed src="{{ '/files/IMU_poster.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
 
 
-## Copy number signature GWAS with variational Bayes 
-* Customized the zero-inflated variational Bayes model [(Ren 2023)](https://www.nature.com/articles/s42003-024-06504-y) which was originally designed for brain imaging data to fit the GWAS setting, achieving a tailored and optimized analysis pipeline for association analysis between genotypes and zero-inflated copy number signatures.
-* Conducted batch run across SNPs on cluster computer, and performed simulation on valid threshold for coefficient effects.
+## Sedentary behavior intervention effect measurement through wearable sensors
+* Sedentary behavior recognition model on a clinical trials dataset (RISE for Health) to produce labels to replace activPAL
+* Mixed effects model to compare intervention effects between different activity recognition algorithms
+<p align="center">
+    <img src="/images/RISE_1.png" alt="RISE" style="width: 80%;">
+</p>
