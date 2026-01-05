@@ -30,12 +30,15 @@ demonstration with error rate control.
 ## Step measurement and gait feature recognition from inertial measurement unit inputs.
 * Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input.
 * Identified important kinetic and gait features and developed [step measurement](https://zenodo.org/records/17253807) model to derive gait features. 
+* Presented in JSM 2025
 <embed src="{{ '/files/IMU_poster.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
 
 
 ## Sedentary behavior intervention effect measurement through wearable sensors
-* Sedentary behavior recognition model on a clinical trials dataset (RISE for Health) to produce labels to replace activPAL
-* Mixed effects model to compare intervention effects between different activity recognition algorithms
+* Sedentary behavior recognition model on a clinical trial study (Rise for Health) to produce labels for intervention effect evaluation against activPAL.
+* Mixed effects model to compare intervention effects on less sitting time and more sit-to-stand transition.
+* Manuscript in preparation
 <p align="center">
     <img src="/images/RISE_1.png" alt="RISE" style="width: 80%;">
 </p>
+<embed src="{{ '/files/BSSC_Poster_Howon_Ryu.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
