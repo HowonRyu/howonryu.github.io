@@ -39,6 +39,6 @@ demonstration with error rate control.
 * Mixed effects model to compare intervention effects on less sitting time and more sit-to-stand transition.
 * Manuscript in preparation
 <p align="center">
-    <img src="/images/RISE_1.png" alt="RISE" style="width: 80%;">
+    <img src="/images/rise_fig_1.png" alt="RISE" style="width: 80%;">
 </p>
 <embed src="{{ '/files/BSSC_Poster_Howon_Ryu.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
