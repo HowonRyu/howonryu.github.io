@@ -29,8 +29,7 @@ demonstration with error rate control.
 
 ## Step measurement and gait feature recognition from inertial measurement unit inputs.
 * Parkinson's disease severity detection model with wearable device data (triaxial IMUs) input.
-* Identified important kinetic and gait features and developed [step measurement](https://zenodo.org/records/17253807) model to derive gait features. 
-* Presented in JSM 2025
+* Identified important kinetic and gait features and developed [step measurement](https://zenodo.org/records/17253807) model to derive gait features (presented in JSM 2025). 
 <embed src="{{ '/files/IMU_poster.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
 
 
