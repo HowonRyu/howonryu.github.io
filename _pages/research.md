@@ -37,7 +37,4 @@ demonstration with error rate control.
 * Sedentary behavior recognition model on a clinical trial study (Rise for Health) to produce labels for intervention effect evaluation against activPAL.
 * Mixed effects model to compare intervention effects on less sitting time and more sit-to-stand transition.
 * Manuscript in preparation
-<p align="center">
-    <img src="/images/rise_fig1.png" alt="RISE" style="width: 80%;">
-</p>
-<embed src="{{ '/files/BSSC_Poster_Howon_Ryu.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
+<embed src="{{ '/files/MoCA_RISE_poster.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px" />
